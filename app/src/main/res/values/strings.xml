@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ModernArtUI</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="action_moreinfo">More Information</string>
+    <string name="pos_btn">Visit MOMA</string>
+    <string name="neg_btn">Not Now</string>
+    <string name="dialog_title">Inspired by the Artists of Modern Art Museum</string>
+    <string name="dialog_body">Click below to know more</string>
+</resources>
